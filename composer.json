@@ -3,7 +3,7 @@
 	"description": "A library which provides extended functionality to WordPress custom taxonomies, allowing you to quickly build custom taxonomies without having to write the same code again and again.",
 	"homepage"   : "https://github.com/johnbillion/extended-taxos/",
 	"license"    : "GPL-2.0+",
-	"type"       : "wordpress-library",
+	"type"       : "wordpress-plugin",
 	"authors"    : [
 		{
 			"name"    : "John Blackbourn",
